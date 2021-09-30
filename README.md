@@ -1,6 +1,8 @@
 # flutter_application_2
 
-A new Flutter project.
+A new Flutt<img width="960" alt="Flutter Simple Calculator" src="https://user-images.githubusercontent.com/68488154/135407678-7dbd296f-d5f1-4ef1-b07b-a6eb6ecd5052.png">
+er simple calculator application using dart math expression solver:
+
 
 ## Getting Started
 
